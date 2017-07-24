@@ -1,0 +1,29 @@
+# PcbBOM Version 1.0
+# Date: Wed Aug 22 21:33:32 2012 UTC
+# Author: 
+# Title: (unknown) - PCB BOM
+#Quantity Description			Value		RefDes		Part Number		Digikey Number		Mouser Number		Newark Number	Description
+# -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1	ACY400				90.9		R23		MFR-25FBF-90R9		90.9XBK-ND		660-MF1/4DC90R9F	01P3859		Resistor, 90.9 Ohms, 1/4W, Metal Film
+2	RCY100P				100uF		C6,C7		ECA-1CM101		P5138-ND		667-ECA-1CM101		96K9149		Capacitor, 100uF, Electrolytic, 16V DC (16V Min.)
+3	RCY100				0.1uF		C13,C12,C5	C315C104M5U5TA		399-4151-ND		80-C315C104M5U		39K6432		Capacitor, 0.1uF, 50V, Ceramic
+1	ACY400				5.49K		R13		MFR-25FBF-5K49		5.49KXBK-ND		660-MF1/4CCT52R5491F	01P3822		Resistor, 5.45K Ohms, 1/4W, Metal Film
+1	TO92				LM317		VREG1		LM317LILP		296-31364-ND		595-LM317LILP		14M2022		Voltage Regulator Adj. LDO
+1	CK_7201SYAQE.fp			7201SYAQE	S1		7201SYAQE		CKN1480-ND		611-7201-100		40M6032		Switch, DPDT Toggle, PCB mount, Chassis mount, Right Angle
+1	ACY400				475		R22		MFR-25FBF-475R		475XBK-ND		660-MF1/4DLT52R4750F	58K3857		Resistor, 475 Ohms, 1/4W, Metal Film
+1	AMPHENOL_BNC_31-5431-short	31-5431		CONN3		31-5431			ARF1065-ND		523-31-5431		73K1441		BNC Board & Panel Mount
+1	DIP8				LME49710NA	U1		LME49710NA/NOPB		LME49710NA/NOPB-ND	926-LME49710NA/NOPB	32M0937		Opamp, Audio Mono, Class AB
+1	ACY300				39pF		C31		CD15ED390JO3		338-1093-ND		5982-15-500V39		81K0534		Capacitor, 39pF, Mica
+1	ACY400				4.7K		R24		RNMF14FTC4K70		S4.7KCACT-ND		271-4.7K-RC		59C1933		Resistor, 4.7K Ohms, 1/4W, Metal Film
+1	CUI_MD-505M			MD-505M		CONN2		MD-50SMK		CP-4050-ND		None			None		Mini-DIN, 5 Pin, Female, Right Angle
+1	ACY400				499		R11		MFR-25FBF-499R		499XBK-ND		660-MF1/4CCT52R4990F	58K3863		Resistor, 499 Ohms, 1/4W, Metal Film
+1	ACY400				100		R10		MFR-25FBF-100R		100XBK-ND		71-CMF55100R00FKEB	26R4017		Resistor, 100 Ohms, 1/4W, Metal Film
+1	DIP8				LF356		U2		LF356N/NOPB		LF356N/NOPB-ND		926-LF356N/NOPB		41K2547		Opamp, Mono JFET, unity gain stable, able to drive capacitive cable load
+1	ACY400				47nF		C1		ECQ-V1H473JL		P4521-ND		667-ECQ-V1H473JL	32R8867		Capacitor, 47nF, Metal Film
+1	ACY400				220K		R1		RNMF14FTC220K		S220KCACT-ND		71-CMF55220R00FHEK	58K3830		Resistor, 220K Ohms, 1/4W, Metal Film
+1	ACY400				49.9K		R31		RNF14FTD49K9		RNF14FTD49K9CT-ND	271-49.9K-RC		67P7607		Resistor, 49.9K Ohms, 1/4W, Metal Film
+2	ACY400				1uF		C10,C11		ECQ-E1105KF		EF1105-ND		667-ECQ-E1105KF		49W0218		Capacitor, 1uF, Metal Film
+1	JUMPER5				126-221		CONN1		126-221			N.A.			None			42FX118		Connector MiniHex-9 Wire to Board
+1	JUMPER5				126-220		CONN4		126-220			N.A.			None			42FX124		Connector MiniHex-9 Wire to Board
+2	DIP8				--		--		A08-LCG-T-R		AE9987-ND		571-1825093-2		52K3254		Socket, DIP8, For U1 and U2
+
