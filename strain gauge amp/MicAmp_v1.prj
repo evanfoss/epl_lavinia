@@ -1,0 +1,4 @@
+elements-dir ./foot
+schematics MicAmp_v1.sch hidden-magic.sch
+output-name MicAmp_v1
+gsch2pcb:use-m4:            yes
