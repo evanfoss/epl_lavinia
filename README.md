@@ -17,6 +17,6 @@ The included EPL Strain Guage Amplifier was unique to this project but we have n
 
 The purpose was to support her larger project studying the latteral line in zibra fish.
 
-<img src="images/epl-engineering-figure2.png">
+<img src="photos/epl-engineering-figure2.png">
 
 
