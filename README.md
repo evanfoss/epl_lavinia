@@ -15,4 +15,7 @@ The EK series Mic. Amp. was a recent update made by modifying the EPL Microphone
 
 The included EPL Strain Guage Amplifier was unique to this project but we have no idea how well it actually works because the sensor it was meant to be used with did not work out. The amplifier it self needed another revision to fix an error in the PCB layout but with the sensor type never used it didn't matter.
 
+The purpose was to support her larger project studying the latteral line in zibra fish.
+<img src="epl-engineering-figure2.png">
+
 
