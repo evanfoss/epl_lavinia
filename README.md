@@ -4,7 +4,7 @@
 This was a project for Lavinia Sheets. As it was unlikely to need expansion I designed it to fit in a U1 size package and not a set of subrack modules.
 
 <a href="photos/P1010688-cropped.JPG"><img src="photos/P1010688-cropped.JPG"></a>
-<a href=""><img src="photos/"></a>
+<a href="photos/P1010691.JPG"><img src="photos/P1010691.JPG"></a>
 
 The package includes 
 
